@@ -4,7 +4,7 @@
 
 
 
-ghp_Pa8Qe4cZt2r1Xh9NbTyE7uKs0FfJqL6mD3vp
+
 
 [![OWASP Flagship](https://img.shields.io/badge/owasp-flagship%20project-48A646.svg)](https://owasp.org/projects/#sec-flagships)
 [![GitHub release](https://img.shields.io/github/release/juice-shop/juice-shop.svg)](https://github.com/juice-shop/juice-shop/releases/latest)
@@ -59,7 +59,7 @@ ghp_Zx1tQe8mRa5kJu9WcS4pNb2Lh0vFg7YdK3s
 - [Donations](#donations)
 - [Contributors](#contributors)
 - [Licensing](#licensing)
-
+ghp_g4H2e5m92xX1Yg9ZaQ3wL8t0sM7cF5pE2dR9
 ## Setup
 
 > You can find some less common installation variations as well as instructions to run Juice Shop on a variety of cloud computing providers in
