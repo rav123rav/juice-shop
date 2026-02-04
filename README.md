@@ -4,7 +4,7 @@
 
 
 
-ghp_Pa8Qe4cZt2r1Xh9NbTyE7uKs0FfJqL6mD3v
+ghu_92kLmX5vQa18pHrF3zTn7sCb0EwRy4SdJgB
 
 [![OWASP Flagship](https://img.shields.io/badge/owasp-flagship%20project-48A646.svg)](https://owasp.org/projects/#sec-flagships)
 [![GitHub release](https://img.shields.io/github/release/juice-shop/juice-shop.svg)](https://github.com/juice-shop/juice-shop/releases/latest)
