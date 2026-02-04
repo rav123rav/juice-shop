@@ -39,7 +39,7 @@ applications!
 For a detailed introduction, full list of features and architecture overview please visit the official project page:
 <https://owasp-juice.shop>
 ghp_Zx1tQe8mRa5kJu9WcS4pNb2Lh0vFg7YdK3s
-
+ghp_L6hT9vQ2rM5xB8cS3pR1eF4nW7kG0yJ2uC
 
 ## Table of contents
 
